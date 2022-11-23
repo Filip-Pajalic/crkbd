@@ -2118,7 +2118,7 @@
     (uuid 00000000-0000-0000-0000-00005a5e2d32)
     (property "Reference" "SW9" (id 0) (at 62.865 36.576 0))
     (property "Value" "SW_PUSH" (id 1) (at 59.055 41.402 0))
-    (property "Footprint" "gateron-ks27:gateron-ks27-choc-v1" (id 2) (at 59.055 39.37 0)
+    (property "Footprint" "kbd:CherryMX_ChocV2_1u" (id 2) (at 59.055 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 59.055 39.37 0))
@@ -4266,7 +4266,7 @@
       (reference "SW8") (unit 1) (value "SW_PUSH") (footprint "gateron-ks27:gateron-ks27-choc-v1")
     )
     (path "/00000000-0000-0000-0000-00005a5e2d32"
-      (reference "SW9") (unit 1) (value "SW_PUSH") (footprint "gateron-ks27:gateron-ks27-choc-v1")
+      (reference "SW9") (unit 1) (value "SW_PUSH") (footprint "kbd:CherryMX_ChocV2_1u")
     )
     (path "/00000000-0000-0000-0000-00005a5e2d3e"
       (reference "SW10") (unit 1) (value "SW_PUSH") (footprint "gateron-ks27:gateron-ks27-choc-v1")
